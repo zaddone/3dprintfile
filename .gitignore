@@ -1,0 +1,5 @@
+*.goc*
+*.gcode
+*.stp
+*.step
+*.sh
